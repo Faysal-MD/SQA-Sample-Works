@@ -5,7 +5,7 @@
 - Open with Postman / Command Shell
 - Run Command for Report: 
 ```console 
-newman run TicketSystem.postman_collection.json -e TicketSystemEnv.postman_environment.json -r cli,htmlextra
+newman run SimpleBooks.postman_collection.json -e SimpleBooksEnv.postman_environment.json -r cli,htmlextra
 ```
 
 ## Technology used:
