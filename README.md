@@ -1,24 +1,51 @@
 # SQA Sample Works
 
-Welcome to the **SQA Sample Works** repository! This repository contains various projects and scripts related to Software Quality Assurance (SQA).
-
-![License](https://img.shields.io/github/license/Faysal-MD/SQA-sample-works)
-![Issues](https://img.shields.io/github/issues/Faysal-MD/SQA-sample-works)
-![Stars](https://img.shields.io/github/stars/Faysal-MD/SQA-sample-works)
-![Forks](https://img.shields.io/github/forks/Faysal-MD/SQA-sample-works)
+Welcome to the SQA Sample Works repository! This repository contains various projects and resources related to Software Quality Assurance (SQA). The projects are organized into two main categories: Manual Testing and Automation Testing.
 
 ## Table of Contents
 
-- [Installation and Setup](#installation-and-setup)
-- [Usage](#usage)
-- [Projects Overview](#projects-overview)
-- [Contributing](#contributing)
+- [Introduction](#introduction)
+- [Manual Testing](#manual-testing)
+- [Automation Testing](#automation-testing)
 - [License](#license)
 
-## Installation and Setup
+## Introduction
 
-To get started with the projects in this repository, follow these steps:
+In this repository, you'll find a collection of SQA projects that demonstrate various testing methodologies and techniques. Whether you are new to SQA or looking to expand your knowledge, these projects can serve as valuable learning resources.
 
-1. **Clone the repository:**
-   ```bash
-   git clone https://github.com/yourusername/SQA-sample-works.git
+## Manual Testing
+
+![Manual Testing](https://via.placeholder.com/150)
+
+The Manual Testing folder contains projects and resources focused on manual testing techniques. Here, you'll find:
+
+- **Test Plans**: Detailed plans outlining the testing strategy for different projects.
+- **Test Cases**: Comprehensive test cases designed to validate the functionality of various applications.
+- **Bug Reports**: Documented bugs discovered during the testing process.
+
+### Projects
+
+- [Project 1](Manual%20Testing/Project%201)
+- [Project 2](Manual%20Testing/Project%202)
+- [Project 3](Manual%20Testing/Project%203)
+
+## Automation Testing
+
+![Automation Testing](https://via.placeholder.com/150)
+
+The Automation Testing folder contains projects and resources focused on automated testing techniques. Here, you'll find:
+
+- **Test Scripts**: Automated test scripts for different applications.
+- **Frameworks**: Custom testing frameworks designed to facilitate automated testing.
+- **Reports**: Detailed reports generated from automated test runs.
+
+### Projects
+
+- [Project 1](Automation%20Testing/Project%201)
+- [Project 2](Automation%20Testing/Project%202)
+- [Project 3](Automation%20Testing/Project%203)
+
+
+## License
+
+This repository is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.
