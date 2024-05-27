@@ -1,18 +1,15 @@
 # SimpleBooks
 
-## How to run this project
-- Clone this project
-- Open with Postman / Command Shell
-- Run Command for Report: 
-```console 
-newman run SimpleBooks.postman_collection.json -e SimpleBooksEnv.postman_environment.json -r cli,htmlextra
-```
-
 ## Technology used:
 - Postman
 - Newman
 
-## Newman and Report Installation Process:
+
+## How to run this project
+- Clone this project
+- Open with Postman / Command Shell
+
+### Newman and Report Installation Process:
 - Newman Install Command:
 ```console
 npm install -g newman
@@ -20,6 +17,10 @@ npm install -g newman
 - Newman Html Report Install Command:
 ```console
 npm install -g newman-reporter-htmlextra
+```
+- Run Command for Report: 
+```console 
+newman run SimpleBooks.postman_collection.json -e SimpleBooksEnv.postman_environment.json -r cli,htmlextra
 ```
 
 ## Test case list:
