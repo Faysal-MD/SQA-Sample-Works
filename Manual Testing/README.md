@@ -18,9 +18,9 @@ The Test Case Writing folder contains comprehensive test cases designed to valid
 
 ### Contents
 
-- [Test Cases for Web Application](Test%20Case%20Writing/Web%20Application%20Test%20Cases)
-- [Test Cases for Mobile Application](Test%20Case%20Writing/Mobile%20Application%20Test%20Cases)
-- [Test Case Templates](Test%20Case%20Writing/Templates)
+- [Test Cases for Facebook Login Page](https://github.com/Faysal-MD/SQA-Sample-Works/blob/main/Manual%20Testing/Test%20Case%20Writing/Test%20Case%20of%20Login%20Page%20of%20Facebook.xlsx)
+- [Test Cases for BDjobs Create Account Page](https://github.com/Faysal-MD/SQA-Sample-Works/blob/main/Manual%20Testing/Test%20Case%20Writing/Test%20Case%20of%20Create%20Account%20Page%20of%20BDjobs.xlsx)
+- [Test Cases for Water Bottle](https://github.com/Faysal-MD/SQA-Sample-Works/blob/main/Manual%20Testing/Test%20Case%20Writing/Test%20Case%20of%20WaterBottle.docx)
 
 ## API Testing
 
