@@ -24,8 +24,6 @@ The Test Case Writing folder contains comprehensive test cases designed to valid
 
 ## API Testing
 
-![API Testing](https://via.placeholder.com/150)
-
 The API Testing folder contains resources and projects focused on testing APIs. Here, you'll find:
 
 - **Test Plans**: Detailed plans outlining the strategy for API testing.
@@ -34,9 +32,8 @@ The API Testing folder contains resources and projects focused on testing APIs. 
 
 ### Contents
 
-- [API Test Plans](API%20Testing/Test%20Plans)
-- [API Test Scripts](API%20Testing/Test%20Scripts)
-- [API Test Reports](API%20Testing/Test%20Reports)
+- [Restful-Booker]([API%20Testing/Test%20Plans](https://github.com/Faysal-MD/SQA-Sample-Works/tree/main/Manual%20Testing/API%20Testing/Postman%20Works/TicketSystem))
+- [SimpleBooks](https://github.com/Faysal-MD/SQA-Sample-Works/tree/main/Manual%20Testing/API%20Testing/Postman%20Works/SimpleBooks)
 
 ## Feature Exploration
 
