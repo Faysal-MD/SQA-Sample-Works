@@ -32,7 +32,7 @@ The API Testing folder contains resources and projects focused on testing APIs. 
 
 ### Contents
 
-- [Restful-Booker]([API%20Testing/Test%20Plans](https://github.com/Faysal-MD/SQA-Sample-Works/tree/main/Manual%20Testing/API%20Testing/Postman%20Works/TicketSystem))
+- [Restful-Booker](https://github.com/Faysal-MD/SQA-Sample-Works/tree/main/Manual%20Testing/API%20Testing/Postman%20Works/TicketSystem)
 - [SimpleBooks](https://github.com/Faysal-MD/SQA-Sample-Works/tree/main/Manual%20Testing/API%20Testing/Postman%20Works/SimpleBooks)
 
 ## Feature Exploration
@@ -47,6 +47,5 @@ The Feature Exploration folder contains documents and resources related to explo
 
 ### Contents
 
-- [Exploration Charters](Feature%20Exploration/Exploration%20Charters)
-- [Session Reports](Feature%20Exploration/Session%20Reports)
-- [Exploration Checklists](Feature%20Exploration/Checklists)
+- [ShareTrip](https://github.com/Faysal-MD/SQA-Sample-Works/blob/main/Manual%20Testing/Feature%20Exploration/FeatureExplore_ShareTrip.pdf)
+- [Shohoz](https://github.com/Faysal-MD/SQA-Sample-Works/blob/main/Manual%20Testing/Feature%20Exploration/Feature%20Explore_Shohoz.pdf)
