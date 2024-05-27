@@ -23,9 +23,9 @@ The Manual Testing folder contains projects and resources focused on manual test
 
 ### Projects
 
-- [Project 1](Manual%20Testing/Project%201)
-- [Project 2](Manual%20Testing/Project%202)
-- [Project 3](Manual%20Testing/Project%203)
+- [Test Case Writing](https://github.com/Faysal-MD/SQA-Sample-Works/tree/main/Manual%20Testing/Test%20Case%20Writing)
+- [API Testing Using Postman](https://github.com/Faysal-MD/SQA-Sample-Works/tree/main/Manual%20Testing/API%20Testing/Postman%20Works)
+- [Feature Exploration](https://github.com/Faysal-MD/SQA-Sample-Works/tree/main/Manual%20Testing/Feature%20Exploration)
 
 ## Automation Testing
 
