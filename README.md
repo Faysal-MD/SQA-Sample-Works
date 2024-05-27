@@ -15,7 +15,7 @@ In this repository, you'll find a collection of SQA projects that demonstrate va
 
 ## Manual Testing
 
-![Manual Testing](https://via.placeholder.com/150)
+![Manual Testing]([https://via.placeholder.com/150](https://www.google.com/search?sca_esv=9b22f68bf05ca09c&sxsrf=ADLYWII4s_5cM-UgtiJH3ACKc5kWWxta0g:1716780192341&q=manual+testing&uds=ADvngMg-IfzkoKaxeHmaO3PpvbcsOBWciIRtqmel7aAqE_tE0LQjOfJsp5QH5uq72wi8-OxRsqQ4AqAWTr0-kd0MZzZj_NILZti_fvVnweVIUvpAtirCpoU6dMDGF7sZsx46gb70cDs2j2UirxmmWyPSJi-TShaPYOH2-tVmF7_a2BJYhq4T_58E8xa5HVSXc1Dm5RtM38IR8csTfxg_WXg1_sk-m12tgYeeQHRQjMGR3V-U-RnCxkDunKJyNd0XloEh16L55oGzqWFSxXPMZYCMGABsGajXF6ex6FP-XSomtYN6-_QI7rVQIkXIps_p0bdziw6p-74F&udm=2&prmd=ivsnbmz&sa=X&ved=2ahUKEwiKhZbM8KyGAxVVRmwGHSvSC50QtKgLegQIDRAB&biw=1366&bih=607&dpr=1#vhid=60zzz_yTr05KXM&vssid=mosaic))
 
 The Manual Testing folder contains projects and resources focused on manual testing techniques. Here, you'll find:
 
