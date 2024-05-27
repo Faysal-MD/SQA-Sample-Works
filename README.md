@@ -45,4 +45,4 @@ The Automation Testing folder contains projects and resources focused on automat
 
 ## License
 
-This repository is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.
+This repository is licensed under the MIT License. See the [LICENSE](https://github.com/Faysal-MD/SQA-Sample-Works/blob/main/LICENSE) file for more information.
