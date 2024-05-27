@@ -37,8 +37,6 @@ The API Testing folder contains resources and projects focused on testing APIs. 
 
 ## Feature Exploration
 
-![Feature Exploration](https://via.placeholder.com/150)
-
 The Feature Exploration folder contains documents and resources related to exploratory testing. Here, you'll find:
 
 - **Exploration Charters**: Documents outlining the goals, scope, and focus areas for exploratory testing sessions.
