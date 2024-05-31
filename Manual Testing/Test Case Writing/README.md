@@ -2,27 +2,10 @@
 
 Welcome to the **Test Case Writing** folder of our project repository. This section is dedicated to documenting test cases for software, ensuring that all functionalities are properly verified and validated.
 
-## Table of Contents
-
-- [Introduction](#introduction)
-- [Folder Structure](#folder-structure)
-- [How to Write Test Cases](#how-to-write-test-cases)
-- [Examples](#examples)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
 The purpose of this folder is to maintain a comprehensive set of test cases for applications. Proper test cases help in identifying bugs, ensuring the software meets its requirements, and maintaining the quality of the product.
-
-## Folder Structure
-
-The structure of this folder is organized to facilitate easy navigation and understanding of the test cases:
-
-
-- **UnitTests/**: Contains test cases for individual units or components of the software.
-- **IntegrationTests/**: Contains test cases for testing the integration between different modules or features.
-- **SystemTests/**: Contains test cases for overall system testing, including end-to-end scenarios and performance testing.
 
 ## How to Write Test Cases
 
@@ -34,7 +17,7 @@ When writing test cases, please adhere to the following format:
 4. **Test Steps**: A step-by-step list of actions to perform the test.
 5. **Expected Results**: The expected outcome of the test.
 6. **Actual Results**: The actual outcome after test execution (to be filled after execution).
-7. **Pass/Fail**: The result of the test (to be marked after execution).
+7. **Test Status**: The result of the test Pass/Fail (to be marked after execution).
 
 ### Example Format
 
