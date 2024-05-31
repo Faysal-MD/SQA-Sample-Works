@@ -1,11 +1,6 @@
 # Test Case Writing
 
-Welcome to the **Test Case Writing** folder of our project repository. This section is dedicated to documenting test cases for software, ensuring that all functionalities are properly verified and validated.
-
-
-## Introduction
-
-The purpose of this folder is to maintain a comprehensive set of test cases for applications. Proper test cases help in identifying bugs, ensuring the software meets its requirements, and maintaining the quality of the product.
+Welcome to the **Test Case Writing** folder of our project repository. This section is dedicated to documenting test cases for software, ensuring that all functionalities are properly verified and validated. The purpose of this folder is to maintain a comprehensive set of test cases for applications. Proper test cases help in identifying bugs, ensuring the software meets its requirements, and maintaining the quality of the product.
 
 ## How to Write Test Cases
 
