@@ -1,4 +1,4 @@
-# Word Count Java Program
+# WordCount
 
 This Java program reads a text file, counts the occurrences of each word, and displays the word count for each unique word in alphabetical order. The program handles punctuation marks, whitespace, and case sensitivity appropriately.
 
