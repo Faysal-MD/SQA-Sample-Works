@@ -1,4 +1,4 @@
-# Test Case Summary
+# Mahfil App Testing Summary
 
 ## Introduction
 This document summarizes the testing process for the Mahfil Mobile App, focusing on various functionalities including registration, login, video content accessibility, user interactions, performance, and download features. The testing process aimed to ensure a seamless and bug-free experience for users. For detailed view please download the Excel file.
