@@ -48,6 +48,20 @@ public class TestClass {
 		
 		Assert.assertEquals(actualUrl, expectedUrl, "URL does not match!");
 		
+		// Xpath
+		// Select the element
+		driver.manage().timeouts().implicitlyWait(3, TimeUnit.SECONDS);
+		driver.findElement(By.xpath("/html/body/div/div/div/div[2]/div/div/div/div[6]/div[2]/div[1]/a/div")).click();
+		// add to cart button
+		driver.manage().timeouts().implicitlyWait(3, TimeUnit.SECONDS);
+		driver.findElement(By.xpath("//button[@id = 'add-to-cart']")).click();
+		// add to cart page
+		driver.manage().timeouts().implicitlyWait(3, TimeUnit.SECONDS);
+		driver.findElement(By.xpath("//a[@class='shopping_cart_link']")).click();
+		// Continue to shopping page
+		driver.manage().timeouts().implicitlyWait(3, TimeUnit.SECONDS);
+		driver.findElement(By.xpath("/html/body/div/div/div/div[2]/div/div[2]/button[1]")).click();
+		
 	}
 
 }
