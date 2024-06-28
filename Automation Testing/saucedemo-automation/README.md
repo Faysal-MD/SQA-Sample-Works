@@ -1,4 +1,5 @@
 # Saucedemo Automation
+This repository contains automation tests for the [Saucedemo](https://www.saucedemo.com/v1/) website using Selenium WebDriver with Java. The tests cover validation of the login functionality, including username, password, login button, website title, and URL.
 
 The following tests are included:
 
